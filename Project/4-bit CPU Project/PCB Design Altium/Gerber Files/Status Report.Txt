@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [4-Bit CPU HWE.PrjPcb]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.GTO]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.GTP]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.GTS]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.GTL]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.GBL]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.GBS]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.GBP]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.GBO]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.GM]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.EXTREP]
+   Generated File[4Bit_CPU_PCB_TEAM_C4.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 06:29:22 On 01/07/2026
