@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hardware Engineering Lab SS2026
+# 4-Bit CPU on Nexys A7-100T | Soaib Ferdous
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2800&pause=700&color=2F81F7&center=true&vCenter=true&width=900&lines=Team+C4;4-Bit+CPU+on+the+Nexys+A7-100T;VHDL+%7C+Vivado+%7C+Altium+Designer" alt="Team C4 animated project title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2800&pause=700&color=2F81F7&center=true&vCenter=true&width=900&lines=Soaib+Ferdous;4-Bit+CPU+on+the+Nexys+A7-100T;VHDL+%7C+Vivado+%7C+Altium+Designer" alt="Soaib Ferdous FPGA portfolio title" />
 
 <br>
 
@@ -11,7 +11,7 @@
 ![Vivado](https://img.shields.io/badge/Tool-AMD%20Vivado-E95420?style=for-the-badge)
 ![Altium](https://img.shields.io/badge/PCB-Altium%20Designer-A5915F?style=for-the-badge)
 
-**A complete hardware-engineering repository containing digital-design laboratory exercises and a synthesizable 4-bit CPU implemented on an FPGA.**
+**Soaib Ferdous | University hardware-engineering portfolio featuring a synthesizable VHDL 4-bit CPU, FPGA implementation, and PCB design deliverables.**
 
 [Featured Project](#featured-project-4-bit-cpu) · [Visual Overview](#visual-overview) · [Board Interface](#nexys-a7-board-interface) · [Run the Project](#running-the-fpga-project) · [Repository Structure](#repository-structure)
 
@@ -21,7 +21,7 @@
 
 ## Overview
 
-This repository contains the laboratory work and final team project completed for the **Hardware Engineering Laboratory**. It brings together the full digital-hardware workflow:
+This personal portfolio repository presents my work from the **Hardware Engineering Laboratory (Summer Semester 2026)**. The underlying university project was developed collaboratively; this repository highlights my participation and preserves the original technical deliverables. It brings together the digital-hardware workflow:
 
 - combinational and sequential circuit design in **VHDL**;
 - behavioral simulation and assertion-based verification;
@@ -30,27 +30,12 @@ This repository contains the laboratory work and final team project completed fo
 
 The main project is a compact **4-bit accumulator-based CPU** designed for the **Digilent Nexys A7-100T** FPGA board. Its internal state is observable through the onboard LEDs and multiplexed seven-segment display, making the processor suitable for demonstration and teaching.
 
-## Team
+## Portfolio Owner
 
-| Role | Name |
-|---|---|
-| Team member | Naved Afridi Rashiq |
-| Team member | Soaib Ferdous |
-| Team member | Moaz Bin Alamgir Chowdhury |
+**Soaib Ferdous**  
+Electronic Engineering | Hochschule Hamm-Lippstadt
 
-## Supervisor/ Course Instructor
-**Prof. Dr.-Ing. Ali Hayek**
-
-## Project Management and Task Distribution
-| Names | Task | Description |
-|---|---|---|
-| Naved Afridi Rashiq, Soaib Ferdous, Moaz Bin Alamgir Chowdhury | Planning | Jointly defined the 4-bit CPU concept, required modules, instruction sequence, FPGA demonstration method, and overall project workflow. |
-| Naved Afridi Rashiq, Soaib Ferdous, Moaz Bin Alamgir Chowdhury | VHDL Coding | Jointly developed and reviewed the CPU core, ALU operations, ROM, RAM, accumulator, program counter, instruction register, flags, clock divider, button logic, display decoder, and top-level integration. |
-| Naved Afridi Rashiq, Soaib Ferdous, Moaz Bin Alamgir Chowdhury | Verification | Jointly created and reviewed the testbench, checked Vivado waveforms, and verified the accumulator, program counter, instruction sequence, RAM values, and carry, overflow, and zero flags. |
-| Naved Afridi Rashiq, Soaib Ferdous, Moaz Bin Alamgir Chowdhury | Testing on FPGA | Jointly generated and programmed the bitstream, tested manual and automatic execution on the Nexys A7 board, and confirmed the LED and seven-segment display outputs. |
-| Naved Afridi Rashiq | PCB Design | Completed the full Altium work, including component selection, power design, schematic capture, FPGA interfaces, component placement, PCB routing, design checks, 3D model, BOM, and manufacturing outputs. |
-| Naved Afridi Rashiq, Soaib Ferdous, Moaz Bin Alamgir Chowdhury | Presentation | Jointly prepared and delivered the project presentation, including the CPU architecture, instruction walkthrough, FPGA demonstration, flag explanation, LED mapping, and PCB overview. |
-| Naved Afridi Rashiq, Soaib Ferdous, Moaz Bin Alamgir Chowdhury | Documentation | Jointly prepared, reviewed, and formatted the complete technical documentation covering the VHDL architecture, verification, FPGA testing, and custom PCB design. |
+**Project context:** This is my personal portfolio presentation of collaborative university coursework, not a claim of exclusive authorship of the original team deliverables. My involvement included CPU architecture, VHDL development, testbench verification, FPGA demonstration, and PCB design. Historical technical reports and design files are retained as originally produced.
 
 # Featured Project: 4-Bit CPU
 
@@ -334,7 +319,7 @@ After programming:
 ## Repository Structure
 
 ```text
-SS2026_HWE_Lab_Team_C4-main/
+4-Bit-CPU-on-Nexys-a7-100T/
 ├── Project/
 │   ├── 4-bit CPU Project/
 │   │   ├── Documentation/
@@ -367,6 +352,6 @@ SS2026_HWE_Lab_Team_C4-main/
 ```
 <div align="center">
 
-### Team C4 · Hardware Engineering Laboratory · Summer Semester 2026
+### Soaib Ferdous · University Hardware Engineering Portfolio · Summer Semester 2026
 
 </div>
